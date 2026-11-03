@@ -4,9 +4,9 @@ An upcoming AI-powered application designed to analyze resumes, compare candidat
 
 ## Project Status
 
-🚧 Planned / In Progress
+ In Progress
 
-## Planned Features
+##  Features
 
 - PDF resume upload and text extraction
 - Resume analysis using AI
@@ -16,7 +16,7 @@ An upcoming AI-powered application designed to analyze resumes, compare candidat
 - Job-match score and analysis dashboard
 - Save analysis history
 
-## Planned Technology Stack
+## Technology Stack
 
 - Python
 - FastAPI
